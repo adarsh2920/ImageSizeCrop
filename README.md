@@ -1,0 +1,2 @@
+# ImageSizeCrop
+resize the image 
