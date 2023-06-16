@@ -26,7 +26,7 @@ To get started with Image Size Crop, follow these steps:
    ```bash
    git clone https://github.com/example/imagesizecrop.git
 
-Usage
+## Usage
 
 Click the "Choose File" button to select an image file from your device.
 Once the image is uploaded, you can see a preview of it on the page.
@@ -35,6 +35,6 @@ Specify the width and height for the cropped image in the input fields.
 The cropped image will be displayed in real-time based on your selection and dimensions.
 Click the "Download" button to save the cropped image to your device.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
